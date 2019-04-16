@@ -7,3 +7,5 @@ perl HTTPCheck.pl <targetlist>
 Output will be saved into output.txt in the current folder!
 
 Tested on Perl v5.24.3
+
+![]preview.gif
