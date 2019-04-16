@@ -4,4 +4,6 @@ A simple tool that checks a list of websites, gives the response codes and saves
 It is written in Perl, Usage:
 perl HTTPCheck.pl <targetlist>
 
+Output will be saved into output.txt in the current folder!
+
 Tested on Perl v5.24.3
