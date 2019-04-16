@@ -1,8 +1,6 @@
 #!/usr/bin/env perl
 
-use strict;
 use warnings;
-use feature 'say';
 use HTTP::Tiny;
 use Try::Tiny;
 my $Client = HTTP::Tiny->new();
